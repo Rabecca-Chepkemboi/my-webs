@@ -1,0 +1,178 @@
+.door{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+.door1{
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+}
+.door2{
+    padding-left: 50%;
+}
+.door3{
+    color: #5fff50;
+}
+.wind1{
+    width: 30%;
+}
+.wind2{
+    background-color: #5fff50;
+    display: grid;
+    grid-template-columns: repeat(5, 5fr);
+    color: black;
+    font-size: 1.5em;
+}
+
+.wind3{
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: repeat(5, 5fr);
+}
+.board1{
+    color: #5fff50;
+}
+.board2{
+    color: red;
+}
+.screen{
+    background-color: black;
+    color: white;
+}
+.board4{
+    background-color: #5fff50;
+    color: black;
+    padding: 12px 8px;
+    border-radius: 1em;
+}
+.board5{
+    border-radius: 1em;
+}
+.mark1{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+.me{
+    padding-left: 40%;
+}
+.me1{
+    font-size: 3em;
+    font-weight: bold;
+}
+.me2{
+    padding-left: 8%;
+}
+.me4{
+    padding: 12px 8px;
+    background-color: darkolivegreen;
+    color: white;
+    border-radius: 1em;
+}
+.mark2{
+    border: solid;
+    width: 40%;
+    /* height: 20%;
+    color: aliceblue; */
+}
+.mark4{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.mark5{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+.miss1{
+    font-size: 2em;
+    font-weight: bold;
+}
+.wall1{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+.board7{
+    background-color: #5fff50;
+    color: black;
+    padding: 12px 8px;
+    border-radius: 1em;
+}
+.board8{
+    padding-left: 10%;
+}
+.board9{
+    padding-left: 30%;
+}
+.mark6{
+    padding-left: 8%;
+}
+.pen1{
+    font-size: medium;
+    color: #5fff50;
+}
+.pen2{
+    font-size: 2em;
+}
+.pen3{
+    padding-left: 5%;
+}
+.pen4{
+    padding: 12px 8px;
+    background-color: black;
+    color: #5fff50;
+    font-weight: bold;
+    border: solid 2px;
+    border-radius: 1em;
+}
+.mint1{
+    border: solid;
+    background-color: rgb(139, 139, 219);
+    color: white;
+    font-size: 1.5em;
+    width: 30%;
+    height: 10em;
+}
+.mint2{
+    border: solid;
+    background-color: rgb(224, 149, 161);
+    color: white;
+    font-size: 1.5em;
+    width: 30%;
+    height: 10em;
+}
+.vow{
+    font-size: 2em;
+}
+.view1{
+    padding-left: 50%;
+}
+.mile{
+    border: solid;
+    text-align: center;
+    width: 70%;
+}
+.mile2{
+    font-size: 2em;
+}
+.mile1{
+    color: #5fff50;
+}
+.placehold1{
+    padding: 12px 60px;
+    border-radius: 1em;
+}
+.placehold2{
+    padding: 12px 8px;
+    border-radius: 1em;
+    background-color: #5fff50;
+    color: black;
+}
+.mon1{
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+}
+.mon{
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+}
+.mon3{
+    display: flex;
+}
