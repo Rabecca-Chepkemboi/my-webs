@@ -69,16 +69,24 @@
 }
 .mark2{
     border: solid;
-    width: 40%;
+    width: 120%;
     border-radius: 1em;
     margin-left: 10%;
+    height: 50%;
+}
+.mark3{
+    border: solid;
+    width: 120%;
+    border-radius: 1em;
+    margin-left: 10%;
+    height: 50%;
 }
 .mark9{
-    position: relative;
-    margin-bottom: 50%;
-    margin-left: 70%;
+    margin-top: 20%;
+    height: 50%;
+    margin-left: 10%;
     border: solid;
-    width: 40%;
+    width: 120%;
     border-radius: 1em;
 }
 .mark4{
@@ -107,6 +115,7 @@
 }
 .mark6{
     padding-left: 8%;
+    margin-top: 30%;
 }
 .pen1{
     font-size: medium;
@@ -130,32 +139,38 @@
     border-radius: 1em;
 }
 .mint1{
-    /* margin-bottom: 70%; */
     margin-left: 40%;
     border-radius: 1em;
     border: solid;
     background-color: rgb(139, 139, 219);
     color: white;
     font-size: 1.5em;
-    width: 30%;
+    width: 80%;
     height: 10em;
 }
 .mint2{
-    /* margin-bottom: 70%; */
     margin-left: 60%;
     border-radius: 1em;
     border: solid;
     background-color: rgb(224, 149, 161);
     color: white;
     font-size: 1.5em;
-    width: 30%;
+    width: 80%;
     height: 10em;
+}
+.mile7{
+    margin-top: 20%;
+    margin-left: 50%;
 }
 .vow{
     font-size: 2em;
 }
 .view1{
     padding-left: 50%;
+}
+.mont5{
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
 }
 .mile{
     border: solid;
@@ -169,6 +184,10 @@
 }
 .mile1{
     color: #5fff50;
+}
+.mile5{
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
 }
 .placehold1{
     padding: 12px 60px;
@@ -213,4 +232,65 @@ li{
 .mos{
     font-size: 1.5em;
     font-weight: bold;
+}
+.charts1{
+    padding-left: 5%;
+    padding: 12px 8px;
+    border-radius: 1em;
+}.charts2{
+    padding-left: 5%;
+    padding: 12px 8px;
+    border-radius: 1em;
+}
+.charts3{
+    margin-top: 20%;
+    padding-left: 6%;
+}
+.charts5{
+    width: 70%;
+    margin-top: 25%;
+    padding-left: 6%;
+    border-radius: 1em;
+}
+.charts4{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+.charts6{
+    font-size: 2em;
+    font-weight: bold;
+}
+.charts7{
+    color: #5fff50;
+}
+.charts8{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.white1{
+    /* padding-right: 90%; */
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+.mil{
+    padding-left: 10%;
+    margin-top: 10%;
+    border-radius: 1em;
+}
+.chant{
+    padding-left: 30%;
+}
+.mil2{
+    padding-left: 50%;
+}
+.chant3{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+/* .chant2{
+    padding-right: 50%;
+} */
+.chant1{
+    padding-left: 10%;
+    border-radius: 24em;
 }
